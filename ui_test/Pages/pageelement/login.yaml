@@ -1,0 +1,50 @@
+Login:
+    description : 登录页元素
+    locators:
+        -
+            name : 手机号
+            type : id
+            value: com.unisound.unione.phone:id/editName
+        -
+            name : 密码
+            type : id
+            value: com.unisound.unione.phone:id/editPassword
+        -
+            name : 登录
+            type : id
+            value: com.unisound.unione.phone:id/btnLogin
+        -
+            name : 密码可见图标
+            type : id
+            value: com.unisound.unione.phone:id/imgSee
+        -
+            name : 用户名一键删除图标
+            type : id
+            value: com.unisound.unione.phone:id/imgClear
+        -
+            name : 密码一键删除图标
+            type : id
+            value: com.unisound.unione.phone:id/ivClear
+        -
+            name : 忘记密码
+            type : id
+            value: com.unisound.unione.phone:id/textFindPassword
+        -
+            name : 还没有账号_点击注册
+            type : id
+            value: com.unisound.unione.phone:id/tvRegister
+        -
+            name : 重置密码按钮
+            type : id
+            value: com.unisound.unione.phone:id/buttonReset
+        -
+            name : 注册
+            type : id
+            value: com.unisound.unione.phone:id/buttonRegist
+
+
+
+
+
+
+

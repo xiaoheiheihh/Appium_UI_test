@@ -1,0 +1,46 @@
+Favorite:
+    description : 音乐收藏功能
+    locators:
+        -
+            name : 播放全部
+            type : id
+            value: com.unisound.unione.phone:id/stvPlayAll
+        -
+            name : 管理
+            type : id
+            value: com.unisound.unione.phone:id/tvRight
+        -
+            name : 选择图标
+            type : id
+            value: com.unisound.unione.phone:id/tvTitle
+        -
+            name : 删除
+            type : id
+            value: com.unisound.unione.phone:id/btnDelete
+        -
+            name : 全选
+            type : id
+            value: com.unisound.unione.phone:id/stvAllSelect
+        -
+            name : 确认
+            type : id
+            value: com.unisound.unione.phone:id/beSure
+        -
+            name : 左滑后出来的删除图标
+            type : id
+            value: com.unisound.unione.phone:id/swipe_right
+        -
+            name : 我的收藏
+            type : id
+            value: com.unisound.unione.phone:id/stvLike
+        -
+            name : 您还没有收藏任何音乐哦
+            type : id
+            value: com.unisound.unione.phone:id/tvEmptyTip
+
+
+
+
+
+
+

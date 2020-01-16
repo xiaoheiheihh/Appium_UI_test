@@ -1,0 +1,64 @@
+Device_Manage:
+    description : 设备管理
+    locators:
+        -
+            name : 设备管理
+            type : id
+            value: com.unisound.unione.phone:id/itemImgHeard
+        -
+            name : 更换网络
+            type : id
+            value: com.unisound.unione.phone:id/tvWifiSsid
+        -
+            name : 音量控制
+            type : id
+            value: com.unisound.unione.phone:id/rlVolumeControl
+        -
+            name : 设备信息
+            type : id
+            value: com.unisound.unione.phone:id/rlShowDeviceInfo
+        -
+            name : 升级
+            type : id
+            value: com.unisound.unione.phone:id/rlVersionUpdate
+        -
+            name : 解绑设备
+            type : id
+            value: com.unisound.unione.phone:id/unbind
+        -
+            name : 开始联网
+            type : id
+            value: com.unisound.unione.phone:id/btnNext
+        -
+            name : 媒体音量
+            type : id
+            value: com.unisound.unione.phone:id/musicVolume
+        -
+            name : 闹钟音量
+            type : id
+            value: com.unisound.unione.phone:id/alarmVolume
+        -
+            name : 音箱版本
+            type : id
+            value: com.unisound.unione.phone:id/tvSoundBoxSoftCurrentVersion
+        -
+            name : 系统版本
+            type : id
+            value: com.unisound.unione.phone:id/tvSoundBoxSystemCurrentVersion
+        -
+            name : 音箱型号
+            type : id
+            value: com.unisound.unione.phone:id/tvDeviceModel
+        -
+            name : 序列号
+            type : id
+            value: com.unisound.unione.phone:id/tvDeviceSN
+        -
+            name : mac地址
+            type : id
+            value: com.unisound.unione.phone:id/tvDeviceMacAddress
+        -
+            name : 系统版本
+            type : id
+            value: com.unisound.unione.phone:id/tvDeviceOSVersion
+

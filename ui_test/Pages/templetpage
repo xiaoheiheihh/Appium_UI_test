@@ -1,0 +1,6 @@
+from Pages.tools import parseyaml,get_locator
+
+{% for page, locators in page_list.items() %}
+class {{page}}:{% for locator in locators %}
+    {{locator}} = get_locator('{{page}}', '{{locator}}'){% endfor %}
+    {% endfor %}

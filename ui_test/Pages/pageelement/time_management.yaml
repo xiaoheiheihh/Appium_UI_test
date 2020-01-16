@@ -1,0 +1,115 @@
+Time_Management:
+    description : 时间管理
+    locators:
+        -
+            name : 日程
+            type : id
+            value: com.unisound.unione.phone:id/iv_note
+        -
+            name : 闹钟
+            type : id
+            value: com.unisound.unione.phone:id/iv_time
+        -
+            name : 倒计时
+            type : id
+            value: com.unisound.unione.phone:id/iv_iot
+        -
+            name : 主题输入框
+            type : id
+            value: com.unisound.unione.phone:id/itemLabContent
+        -
+            name : 新建按钮
+            type : id
+            value: com.unisound.unione.phone:id/rightImage
+        -
+            name : 保存
+            type : id
+            value: com.unisound.unione.phone:id/titleRight
+        -
+            name : 取消
+            type : id
+            value: com.unisound.unione.phone:id/titleLeft
+        -
+            name : 时间
+            type : id
+            value: com.unisound.unione.phone:id/itemTimeContent
+        -
+            name : 重复
+            type : id
+            value: com.unisound.unione.phone:id/itemRepeatContent
+        -
+            name : 选择日期
+            type : id
+            value: com.unisound.unione.phone:id/selectDate
+        -
+            name : 删除
+            type : id
+            value: com.unisound.unione.phone:id/btnDelete
+        -
+            name : 时间管理页_时间
+            type : id
+            value: com.unisound.unione.phone:id/tvTime
+        -
+            name : 时间管理页_主题
+            type : id
+            value: com.unisound.unione.phone:id/tvLab
+        -
+            name : 时间管理页_重复方式
+            type : id
+            value: com.unisound.unione.phone:id/tvRepeatType
+        -
+            name : 时间管理页_开关状态
+            type : id
+            value: com.unisound.unione.phone:id/ivChange
+        -
+            name : 一次，每月循环，每年循环
+            type : id
+            value: com.unisound.unione.phone:id/tvRepeatExtraTypeContent
+        -
+            name : 每周
+            type : id
+            value: com.unisound.unione.phone:id/tv_repeat_type
+        -
+            name : 数据空空如也
+            type : id
+            value: com.unisound.unione.phone:id/tvEmptyTip
+        -
+            name : 只能设置未来时间的闹钟
+            type : xpath
+            value: //*[contains(@text,"未来时间")]
+        -
+            name : 设置成功
+            type : xpath
+            value: //*[contains(@text,"设置成功")]
+        -
+            name : 闹钟已存在
+            type : xpath
+            value: //*[contains(@text,"存在")]
+        -
+            name : 数量超限喽
+            type : xpath
+            value: //*[contains(@text,"超限")]
+        -
+            name : 不要忘记填写主题哟
+            type : xpath
+            value: //*[contains(@text,"不要忘记")]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

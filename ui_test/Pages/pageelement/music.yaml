@@ -1,0 +1,78 @@
+Music:
+    description : 音乐播放功能
+    locators:
+        -
+            name : 音乐
+            type : id
+            value: com.unisound.unione.phone:id/lyMusic
+        -
+            name : 推荐的歌手
+            type : id
+            value: com.unisound.unione.phone:id/imgSingerHeard
+        -
+            name : 推荐歌曲_更多
+            type : id
+            value: com.unisound.unione.phone:id/tv_commend_more
+        -
+            name : 播放器
+            type : id
+            value: com.unisound.unione.phone:id/rightImage
+        -
+            name : 歌曲数量
+            type : id
+            value: com.unisound.unione.phone:id/tvMusicSingerSizes
+        -
+            name : 播放列表的歌曲名称
+            type : id
+            value: com.unisound.unione.phone:id/imgSingerItemTitle
+        -
+            name : 收藏图标
+            type : id
+            value: com.unisound.unione.phone:id/imFavorite
+        -
+            name : 正在播放的歌曲名称
+            type : id
+            value: com.unisound.unione.phone:id/tvTitle
+        -
+            name : 歌手信息
+            type : id
+            value: com.unisound.unione.phone:id/tvArtist
+        -
+            name : 播放/暂停按钮
+            type : id
+            value: com.unisound.unione.phone:id/btnPlay
+        -
+            name : 播放全部
+            type : id
+            value: com.unisound.unione.phone:id/imgPlay
+        -
+            name : 推荐歌曲列表
+            type : id
+            value: com.unisound.unione.phone:id/tvName
+        -
+            name : 上一首歌
+            type : id
+            value: com.unisound.unione.phone:id/btnPrev
+        -
+            name : 下一首歌
+            type : id
+            value: com.unisound.unione.phone:id/btnNext
+        -
+            name : 播放模式
+            type : id
+            value: com.unisound.unione.phone:id/btnPlayMode
+        -
+            name : 播放列表图标
+            type : id
+            value: com.unisound.unione.phone:id/btnCurrentList
+        -
+            name : 推荐歌曲的歌名
+            type : id
+            value: com.unisound.unione.phone:id/tvSongNameContent
+
+
+
+
+
+
+

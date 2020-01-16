@@ -1,0 +1,92 @@
+Personal_Center:
+    description : 个人中心
+    locators:
+        -
+            name : 个人中心
+            type : id
+            value: com.unisound.unione.phone:id/imgUser
+        -
+            name : 头像
+            type : id
+            value: com.unisound.unione.phone:id/ivHeadImg
+        -
+            name : 昵称
+            type : id
+            value: com.unisound.unione.phone:id/tvUserNick
+        -
+            name : 性别
+            type : id
+            value: com.unisound.unione.phone:id/tvUserGender
+        -
+            name : 生日
+            type : id
+            value: com.unisound.unione.phone:id/tvUserBirthday
+        -
+            name : 手机号
+            type : id
+            value: com.unisound.unione.phone:id/tvUserPhone
+        -
+            name : 修改密码
+            type : id
+            value: com.unisound.unione.phone:id/rlModifyUserPassword
+        -
+            name : 头像_相机
+            type : id
+            value: com.unisound.unione.phone:id/iv_photo
+        -
+            name : 拍照键
+            type : id
+            value: com.huawei.camera:id/shutter_button
+        -
+            name : 头像_取消使用
+            type : id
+            value: com.huawei.camera:id/btn_review_cancel
+        -
+            name : 头像_使用
+            type : id
+            value: com.huawei.camera:id/done_button
+        -
+            name : 完成键
+            type : id
+            value: com.unisound.unione.phone:id/btnFinish
+        -
+            name : 旋转键
+            type : id
+            value: com.unisound.unione.phone:id/btnRotate
+        -
+            name : 昵称输入框
+            type : id
+            value: com.unisound.unione.phone:id/etNickName
+        -
+            name : 保存
+            type : id
+            value: com.unisound.unione.phone:id/tvRight
+        -
+            name : 退出登录
+            type : id
+            value: com.unisound.unione.phone:id/btnLoginOut
+        -
+            name : 重置密码
+            type : id
+            value: com.unisound.unione.phone:id/buttonReset
+        -
+            name : 个人信息
+            type : id
+            value: com.unisound.unione.phone:id/titleName
+        -
+            name : 上传成功
+            type : xpath
+            value: //*[contains(@text,"上传成功")]
+
+
+
+
+
+
+
+
+
+
+
+
+

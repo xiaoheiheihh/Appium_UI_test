@@ -1,0 +1,46 @@
+Base:
+    description : 公共元素
+    locators:
+        -
+            name : 手机权限
+            type : id
+            value : com.android.packageinstaller:id/permission_allow_button
+        -
+            name : 设置时间/日期_确定
+            type : id
+            value: com.unisound.unione.phone:id/btnSubmit
+        -
+            name : 设置时间/日期_取消
+            type : id
+            value: com.unisound.unione.phone:id/btnCancel
+        -
+            name : 弹框界面_确定
+            type : id
+            value: com.unisound.unione.phone:id/submit
+        -
+            name : 弹框界面_取消
+            type : id
+            value: com.unisound.unione.phone:id/cancel
+        -
+            name : 左上角返回箭头
+            type : id
+            value: com.unisound.unione.phone:id/imBack
+        -
+            name : 重置密码界面的返回箭头
+            type : id
+            value: com.unisound.unione.phone:id/imaBack
+        -
+            name : 首页
+            type : id
+            value: com.unisound.unione.phone:id/largeLabel
+        -
+            name : 我的
+            type : id
+            value: com.unisound.unione.phone:id/navigation_user
+        -
+            name : home
+            type : id
+            value: com.unisound.unione.phone:id/navigation_home
+
+
+
